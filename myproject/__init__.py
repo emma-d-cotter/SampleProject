@@ -1,4 +1,5 @@
 from . import pronto_utils
 from . import basic_utils
 
-PI = 3.14159 # call this as myproject.PI
+# call this as myproject.PI
+PI = 3.14159
